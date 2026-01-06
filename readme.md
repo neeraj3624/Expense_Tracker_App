@@ -127,23 +127,3 @@ npm cache clean --force
 # Reinstall
 npm install
 ```
-
-## **Project Requirements Checklist** 
-- [x] User authentication (Login/Signup)
-- [x] Add expenses (Category, Amount, Comments)
-- [x] View expenses in table (sorted by latest)
-- [x] Edit existing expenses
-- [x] Delete expenses
-- [x] Pie chart visualization
-- [x] User-friendly interface
-- [x] No complex setup needed
-
-## **Created By** 
-[Your Name] - [Your College Name]
-[Your Roll Number] - [Your Class]
-
-**Date:** [Current Date]
-
----
-
-**Note:** This is a college project for educational purposes. Data is stored in memory and will be lost when server restarts.
